@@ -1,4 +1,4 @@
-# MercerHackathon_Chatbot
+# MercorHackathon_Chatbot
 # Job Interview Preparation Bot 
 ## Video demo link
 https://drive.google.com/file/d/1HVCtzKhq5MU3_k2IL1b_D8a2iISfHYHI/view?usp=sharing
